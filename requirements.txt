@@ -1,0 +1,4 @@
+fastmcp>=3.0,<4
+httpx>=0.28,<1
+redis>=5,<7
+tzdata>=2025.1
