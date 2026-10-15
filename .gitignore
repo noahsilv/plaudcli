@@ -1,0 +1,10 @@
+.venv/
+.test-deps/
+__pycache__/
+.pytest_cache/
+.env
+.env.*
+!.env.example
+tokens*.json
+.plaud/
+*.log
